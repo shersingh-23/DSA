@@ -1,2 +1,9 @@
-# DSA
-A collection of my LeetCode solutions, focused on mastering Data Structures and Algorithms.
+# 🚀 LeetCode Solutions
+
+This repository contains my daily LeetCode solutions synced using LeetSync.
+
+## 🎯 Goal
+To improve problem-solving skills and master Data Structures & Algorithms.
+
+---
+Consistent practice > everything.
